@@ -1,0 +1,98 @@
+.header {
+  background-color: #a4c991;
+  padding: 10px 20px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer {
+  background-color: #252627;
+  padding: 10px 20px;
+  color: white;
+  display: flex;
+  flex: 1;
+  bottom: 0;
+  justify-content: "space-between";
+  align-items: center;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.item {
+  display: flex;
+  height: 60vh;
+  background: salmon;
+  align-items: center;
+  justify-content: center;
+}
+
+.leftBtn {
+  position: absolute;
+  top: 40%;
+  left: 20px;
+}
+
+.rightBtn {
+  position: absolute;
+  top: 40%;
+  right: 20px;
+}
+
+.bodyHeader {
+  padding: 10px 20px;
+  flex: 6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  display: flex;
+  gap: 20px;
+ 
+}
+
+
+
+.box img {
+  width: 100%;
+  height: 100%;
+}
+
+.box1 img {
+  object-fit: cover;
+}
+.projectContatiner{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.companyDetailContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 900px) {
+  .projectContatiner {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .companyDetailContainer{
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .footer{
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+  }
+}
