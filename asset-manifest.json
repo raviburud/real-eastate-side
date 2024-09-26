@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/real-eastate-side/static/css/main.80f58e0c.css",
+    "main.js": "/real-eastate-side/static/js/main.de08e5b0.js",
+    "static/js/453.bd8cd05b.chunk.js": "/real-eastate-side/static/js/453.bd8cd05b.chunk.js",
+    "static/media/pexels-enginakyurt-1463917.jpg": "/real-eastate-side/static/media/pexels-enginakyurt-1463917.e306cc95bd50ba550b9b.jpg",
+    "static/media/pexels-volkerthimm-27307398.jpg": "/real-eastate-side/static/media/pexels-volkerthimm-27307398.b63c710537e9791b9cfb.jpg",
+    "static/media/pexels-volkerthimm-27307397.jpg": "/real-eastate-side/static/media/pexels-volkerthimm-27307397.c9f9eca524b53eaf361d.jpg",
+    "static/media/pexels-500photos-com-15338-93400.jpg": "/real-eastate-side/static/media/pexels-500photos-com-15338-93400.2acc59e881eac773f550.jpg",
+    "static/media/about-us-icon-34429.png": "/real-eastate-side/static/media/about-us-icon-34429.b7dd11e534e31bf6b3e0.png",
+    "index.html": "/real-eastate-side/index.html",
+    "main.80f58e0c.css.map": "/real-eastate-side/static/css/main.80f58e0c.css.map",
+    "main.de08e5b0.js.map": "/real-eastate-side/static/js/main.de08e5b0.js.map",
+    "453.bd8cd05b.chunk.js.map": "/real-eastate-side/static/js/453.bd8cd05b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80f58e0c.css",
+    "static/js/main.de08e5b0.js"
+  ]
+}
